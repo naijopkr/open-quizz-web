@@ -1,0 +1,6 @@
+export const FETCH_USER = 'fetch_user'
+export const FETCH_QUIZZ = 'fetch_quizz'
+export const FETCH_TAKEN_QUIZZ = 'fetch_taken_quizz'
+export const INDEX_QUIZZ_OWNED = 'index_quizz_owned'
+export const INDEX_QUIZZ_TAKEN = 'index_quizz_taken'
+export const FETCH_ANSWER = 'fetch_answer'

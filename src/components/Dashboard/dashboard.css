@@ -1,0 +1,11 @@
+.quiz-index-title {
+  padding: 10px;
+}
+
+.quiz-index-title h5 {
+  margin: 0;
+}
+
+.quiz-card.col {
+  padding: 0 20px;
+}
